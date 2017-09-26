@@ -1,0 +1,1 @@
+Repo contains reproduction of the problem when Angular Language Service complains about comparision between two variables whereas typescript thinks its ok.
